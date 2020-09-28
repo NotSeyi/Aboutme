@@ -1,0 +1,44 @@
+p{
+       color: red;
+}
+
+h1{
+	color: #648a8f;
+}
+
+h1{
+	font-family: 'Hanalei', cursive;
+	font-size: 1000px
+	padding-right: 300px;
+}
+
+body{
+	background-color: #9abf91;
+	text-align: center;
+}
+
+.Me{
+	padding-top: 50px;
+	width: 200px;
+	border-radius: 50%;
+}
+
+p{
+	color: blue
+}
+
+.topcloud{
+	padding-left: 1000px;
+	padding-bottom: 0px;
+}
+
+.bottomcloud{
+	padding-right: 1200px;
+	padding-top: 80px;
+
+}
+
+.Mountain{
+	height: 500px;
+	padding-bottom: 100px;
+}
